@@ -1,0 +1,32 @@
+{
+  "name": "@stdlib/complex-base-wrap-function",
+  "version": "0.0.0",
+  "description": "Wrap a function accepting complex number arguments to support providing both real and complex numbers.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/complex-base-wrap-function.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "data",
+    "structure",
+    "complex",
+    "cmplx",
+    "number",
+    "base",
+    "wrap"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
