@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/complex-base-wrap-function",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Wrap a function accepting complex number arguments to support providing both real and complex numbers.",
   "license": "Apache-2.0",
   "author": {
