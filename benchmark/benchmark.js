@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var Complex64 = require( '@stdlib/complex-float32' );
 var realf = require( '@stdlib/complex-realf' );
 var imagf = require( '@stdlib/complex-imagf' );
