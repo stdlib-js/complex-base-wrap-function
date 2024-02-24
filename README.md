@@ -54,7 +54,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-wrap = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@umd/browser.js' )
+wrap = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@v0.2.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -66,7 +66,7 @@ var wrap = require( 'path/to/vendor/umd/complex-base-wrap-function/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@v0.2.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -130,7 +130,7 @@ The function accepts the following arguments:
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-caddf@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-realf@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-imagf@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@v0.2.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
