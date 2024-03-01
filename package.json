@@ -40,18 +40,19 @@
     "@stdlib/assert-is-function": "^0.2.1",
     "@stdlib/assert-is-nonnegative-integer": "^0.2.1",
     "@stdlib/string-format": "^0.2.1",
-    "@stdlib/types": "^0.3.2"
+    "@stdlib/types": "^0.3.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/complex-float32": "^0.2.1",
     "@stdlib/complex-imagf": "^0.2.1",
     "@stdlib/complex-realf": "^0.2.1",
     "@stdlib/math-base-assert-is-nanf": "^0.2.1",
-    "@stdlib/math-base-ops-caddf": "^0.2.0",
+    "@stdlib/math-base-ops-caddf": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.0"
+    "@stdlib/bench-harness": "^0.2.1"
   },
   "engines": {
     "node": ">=0.10.0",
