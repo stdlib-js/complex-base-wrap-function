@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import wrap from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@esm/index.mjs';
+import wrap from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@v0.2.2-esm/index.mjs';
 ```
 
 #### wrap( fcn, nargs, ctor )
@@ -108,7 +108,7 @@ import Complex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-cto
 import caddf from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-base-add@esm/index.mjs';
 import realf from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-real@esm/index.mjs';
 import imagf from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-imag@esm/index.mjs';
-import wrap from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@esm/index.mjs';
+import wrap from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@v0.2.2-esm/index.mjs';
 
 var f = wrap( caddf, 2, Complex64 );
 
