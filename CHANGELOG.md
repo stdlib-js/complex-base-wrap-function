@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-12-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`767edc7`](https://github.com/stdlib-js/stdlib/commit/767edc78af5b5b08f826c95b9dd882415dc556f1) - **docs:** improve doctests in `complex/base/wrap-function` [(#8666)](https://github.com/stdlib-js/stdlib/pull/8666) _(by Aryan kumar, Athan Reines)_
 -   [`845e64a`](https://github.com/stdlib-js/stdlib/commit/845e64a2f7e12bd60729097230774569b2d4954e) - **refactor:** update paths _(by Gururaj Gurram)_
 
 </details>
@@ -24,8 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
+-   Athan Reines
 -   Gururaj Gurram
 
 </section>
