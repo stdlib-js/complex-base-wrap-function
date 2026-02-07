@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/complex-base-wrap-function",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Wrap a function accepting complex number arguments to support providing both real and complex numbers.",
   "license": "Apache-2.0",
   "author": {
@@ -37,18 +37,18 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-function": "^0.2.2",
-    "@stdlib/assert-is-nonnegative-integer": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/assert-is-function": "^0.2.3",
+    "@stdlib/assert-is-nonnegative-integer": "^0.2.3",
+    "@stdlib/string-format": "^0.2.3",
     "@stdlib/types": "^0.4.3",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/complex-float32-base-add": "^0.1.0",
-    "@stdlib/complex-float32-ctor": "^0.0.2",
-    "@stdlib/complex-float32-imag": "^0.1.1",
-    "@stdlib/complex-float32-real": "^0.1.1",
-    "@stdlib/math-base-assert-is-nanf": "^0.2.2",
+    "@stdlib/complex-float32-base-add": "^0.2.0",
+    "@stdlib/complex-float32-ctor": "^0.1.0",
+    "@stdlib/complex-float32-imag": "^0.1.2",
+    "@stdlib/complex-float32-real": "^0.1.2",
+    "@stdlib/math-base-assert-is-nanf": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
