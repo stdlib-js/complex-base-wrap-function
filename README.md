@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import wrap from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@deno/mod.js';
+import wrap from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@v0.2.3-deno/mod.js';
 ```
 
 #### wrap( fcn, nargs, ctor )
@@ -101,7 +101,7 @@ The function accepts the following arguments:
 ```javascript
 import Complex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-ctor@deno/mod.js';
 import caddf from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-base-add@deno/mod.js';
-import wrap from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@deno/mod.js';
+import wrap from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-wrap-function@v0.2.3-deno/mod.js';
 
 var f = wrap( caddf, 2, Complex64 );
 
